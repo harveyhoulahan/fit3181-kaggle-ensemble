@@ -1,6 +1,6 @@
 # 20-class image classification — 1st place, 0.98918
 
-Winning entry for the FIT3181/5215 Deep Learning Kaggle competition, Monash University, S2 2026.
+Winning entry for the FIT3181/5215 Deep Learning Kaggle competition, Monash University, S2 2025.
 **1st of 156 teams** on the private leaderboard at **0.98918**, from 2nd on the public split.
 
 A six-member ensemble of fine-tuned vision-language backbones. 99.68% validation accuracy
